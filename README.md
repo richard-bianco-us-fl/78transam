@@ -12,8 +12,8 @@ Launch: Pons. Liquidity is locked. No reserved developer allocation; the creator
 
 Network: Robinhood Chain (chain ID 4663)
 
-Developer: Richard J Bianco, 57, Florida, Married in '88, Beautiful and gifted daugters, amaxing grandchildren.
-Extremely successful corporate developer went "John Galt" to master options. 
+Developer: Richard J Bianco, 57, Florida, Married since 1988 at 20 years of age.
+Successful corporate developer went "John Galt" to master options. 
 
 
 
@@ -22,9 +22,6 @@ Extremely successful corporate developer went "John Galt" to master options.
 More about the developer- his quest to master options and his desire to build a community.
 
 Known as Rich (most use), Richie (mom and wife use), RichieRich (friends use), Richard (coworkers that don't know him use)
-Born in Illinois, raised in Wisconsin, raised a family in Florida
-Married since 1988- Two beautiful and extremely intelligent daughters, both gifted and received free college via Florida gifted program.
-Two wonderful Son in laws, two amazing and beautiful grandchildren, Charlie and Margo.
 
 Developer is a 35 year corporate IT developer (PowerBuilder, .NET, C#, C, Oracle, SQL, Cobol, CICS, Natural, System 370 Assembler, Python) who left the IT industry to master options.
 The quest to become professional option trader started in 2026; developer is gifted in systems, patterns and problem solving allowing rapid ascent to pro-adjacent status within six months.
